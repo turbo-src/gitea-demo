@@ -6,4 +6,4 @@ This repository is for testing of turbosrc. It can be on Github, Gitlab, or even
 
 For now, we'll use a local gitea instance as we have full control of the testing environment that way, as opposed to testing of Github.
 
-On the git-service, there are modules for interacting not only with git bu gitea.
+On the git-service, there are modules for interacting not only with git but gitea.
